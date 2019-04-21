@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "T-Shirt",
+        "description": "A T-shirt (or t shirt, or tee) is a style of unisex fabric shirt named after the T shape of its body and sleeves. Traditionally it has short sleeves and a round neckline, known as a crew neck, which lacks a collar. T-shirts are generally made of a stretchy, light and inexpensive fabric and are easy to clean.",
+        "keywords": [
+          "stuffed", "plush", "groot", "guardians of the galaxy"
+        ],
+        "image": "t-shirt.jpg",
+        "age": [
+          "0", "+"
+        ],
+        "price": 9.99
+      },
+      {
+        "id": 2,
+        "name": "Shirt",
+        "description": "A shirt is a cloth garment for the upper body (from the neck to the waist).Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.",
+        "keywords": [
+          "action figure", "toy story", "posable", "requires batteries"
+        ],
+        "image": "shirt.jpg",
+        "age": [
+          "3", "10"
+        ],
+        "price": 38.50
+      },
+      {
+        "id": 3,
+        "name": "Pant",
+        "description": "Trousers (British English) or pants (American English) are an item of clothing that might have originated in East Asia, worn from the waist to the ankles, covering both legs separately (rather than with cloth extending across both legs as in robes, skirts, and dresses).",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "pant.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Jean",
+        "description": "Jeans are a type of pants or trousers, typically made from denim or dungaree cloth. Often the term 'jeans' refers to a particular style of trousers, called 'blue jeans', which were invented by Jacob W. Davis in partnership with Levi Strauss & Co. in 1871[1] and patented by Jacob W. Davis and Levi Strauss on May 20, 1873.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "jeans.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 22.99
+      },
+      {
+        "id": 5,
+        "name": "Lady Jean",
+        "description": "Jeans are a type of pants or trousers, typically made from denim or dungaree cloth. Often the term 'jeans' refers to a particular style of trousers, called 'blue jeans', which were invented by Jacob W. Davis in partnership with Levi Strauss & Co. in 1871[1] and patented by Jacob W. Davis and Levi Strauss on May 20, 1873.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "lady-jean.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      }
+    ]
+  }
