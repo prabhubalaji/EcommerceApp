@@ -1,3 +1,14 @@
+The following Ecommerce Application consists of following modules,
+1.HomePage
+  ->Product Listing Page
+  ->Product Description
+  ->Add To Cart(Redux Store)
+  ->Remove From Cart(Redux Store)
+2.CartPage
+  ->Show the products added to cart
+  ->Can do AddToCart/RemoveFromCart/RemoveAllFromCart Operation
+  ->Total Price of the items to be Checked Out.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
